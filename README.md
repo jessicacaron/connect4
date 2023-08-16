@@ -4,6 +4,16 @@
 ## Project Overview
 Classic game of connect 4 built using MERN and a high scores table incorporated using MongoDB.
 
+
+## Technologies:
+- MERN
+- HTML
+- CSS
+- Javascript
+- MongoDB
+- Nodejs
+  
+
 ## Project Description:
 Gameplay:
 Users take turns one at a time clicking on the connect 4 board trying to get 4 in a row. Screen displays the users turn and after the game is won, it prompts for users name to enter into the high scores page.
